@@ -1,8 +1,9 @@
 ---
-title: "Welcome"
+title: "Ouverture le 12 novembre"
 weight: 1
 ---
 
+{{< map >}}
 `Hugo-Scroll` theme alternates colors of sections that are placed on single page.
 The landing screen is meant to be visually striking.
 
