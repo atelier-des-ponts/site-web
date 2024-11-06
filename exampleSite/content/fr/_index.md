@@ -6,11 +6,11 @@ header_image: "images/carpentry-tools-wooden-table-background.jpg"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/chef-hat.png"
+header_logo: "images/logo-adp-petit.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Atelier des ponts"
-header_subheadline: "Bricolage citoyen de partage bricolage au 24 rue de venise"
+header_headline: "Atelier des Ponts"
+header_subheadline: "Atelier de bricolage participatif à Villeurbanne</br>24 rue de Venise"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
