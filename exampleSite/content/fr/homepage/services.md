@@ -1,7 +1,7 @@
 ---
-title: "Les tarifs"
-header_menu_title: "Tarifs"
-navigation_menu_title: "Tarifs"
+title: "Les horaires d'ouverture"
+header_menu_title: "les horaires d'ouverture"
+navigation_menu_title: "les horaires d'ouverture"
 weight: 2
 header_menu: true
 ---
@@ -28,7 +28,7 @@ A régler sur le site ou sur place
 
 A rajouter selon l’usage :
 
-- 5€ (dépannage ponctuel à prix libre, demi-journée 10h-14h ou 14h-fermeture), 
+- 5€ (demi journée),
 - 20€ (forfait semaine), 
 - 40€ (forfait mois), 
 - 150€ (forfait année)

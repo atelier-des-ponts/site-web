@@ -1,5 +1,5 @@
 ---
-title: "Ouverture le 12 novembre"
+title: "Ouverture le 13 novembre"
 weight: 1
 ---
 
