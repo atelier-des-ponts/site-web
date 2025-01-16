@@ -25,9 +25,14 @@ jobs:
         run: |
           ls
           cd ..
+          echo 'rename to hugo-scroll as this is expected named of theme'
           mv site-web hugo-scroll
           cd hugo-scroll
           hugo build --source=./exampleSite --themesDir=../..
+          echo 'rename back to original name for next tooling steps.'
+          cd ..
+          mv hugo-scroll site-web
+          cd site-web
 
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push'
