@@ -28,7 +28,8 @@ jobs:
           echo 'rename to hugo-scroll as this is expected named of theme'
           mv site-web hugo-scroll
           cd hugo-scroll
-          hugo build --source=./exampleSite --themesDir=../..
+          mkdir public
+          hugo build --source=./exampleSite --themesDir=../.. --destination=../public
           echo 'rename back to original name for next tooling steps.'
           cd ..
           mv hugo-scroll site-web
