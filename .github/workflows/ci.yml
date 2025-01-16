@@ -24,7 +24,6 @@ jobs:
       - name: Build local ./exampleSite
         run: |
           ls
-          cd site-web
           hugo build --source=./exampleSite --themesDir=../..
 
       - name: Deploy to GitHub Pages
