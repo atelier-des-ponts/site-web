@@ -26,7 +26,7 @@ jobs:
           ls
           cd ..
           mv site-web hugo-scroll
-          cd -
+          cd hugo-scroll
           hugo build --source=./exampleSite --themesDir=../..
 
       - name: Deploy to GitHub Pages
