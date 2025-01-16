@@ -31,7 +31,7 @@ jobs:
           mkdir public
           hugo build --source=./exampleSite --themesDir=../.. --destination=../public
           echo 'rename back to original name for next tooling steps.'
-          cp exampleSite CNAME public/
+          cp exampleSite/CNAME public/
           cd ..
           mv hugo-scroll site-web
           cd site-web
