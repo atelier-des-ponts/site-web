@@ -20,3 +20,5 @@ L’Atelier Des Ponts, c’est la mise à disposition d’espaces et d'outils, e
 <a href="/images/bricolage-villeurbanne-atelier-des-ponts.webp" data-lightbox="galerie">
   <img src="/images/bricolage-villeurbanne-atelier-des-ponts.webp" alt="Personne fabricant un objet en bois au sein de l'atelier de bricolage de Villeurbanne" style="width: 30%;">
 </a>
+
+![Perceuse à colonne dans l'atelier de bricolage partagé à Villeurbanne](/images/perceuse-colonne-atelier-des-ponts.webp) ![Espace de bricolage dans l'atelier de bricolage partagé à Villeurbanne](/images/plan-travail-atelier-des-ponts.webp) ![Personne fabricant un objet en bois au sein de l'atelier de bricolage de Villeurbanne](/images/bricolage-villeurbanne-atelier-des-ponts.webp)
