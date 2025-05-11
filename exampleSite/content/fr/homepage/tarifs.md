@@ -6,8 +6,8 @@ weight: 2
 header_menu: true
 ---
 
-Tarifs Pour venir bricoler à l'Atelier des Ponts, vous devez être adhérent.e à
-l'association : 15€ de cotisation annuelle en 2025 (5€ en tarif solidaire).
+L'Atelier des Ponts est une association dédiée au bricolage. Pour pouvoir bénéficier de l'espace et des outils, vous devez donc être adhérent.e. Le tarif de l'adhésion est de 15€ de cotisation annuelle en 2025 (5€ si vous êtes en difficulté financière - aucun justificatif demandé).
+
 Ensuite, vous choisissez un forfait d'utilisation de l'atelier:
 
 - 5€ (demi journée),
