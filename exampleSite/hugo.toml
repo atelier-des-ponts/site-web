@@ -85,6 +85,12 @@ enableEmoji = true
         icon = "fa fa-facebook"
 
     [[params.contacts]]
+        label = "instagram"
+        value = "Nous suivre sur Instagram"
+        url = "https://www.instagram.com/atelierdesponts/"
+        icon = "fa fa-instagram"
+
+    [[params.contacts]]
         label = "email"
         value = "atelierdesponts@protonmail.com"
         url = "mailto:atelierdesponts@protonmail.com"
