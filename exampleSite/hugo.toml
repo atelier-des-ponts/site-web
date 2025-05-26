@@ -21,7 +21,7 @@ enableEmoji = true
 [params]
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-    favicon = "images/favicon.png"
+    favicon = "images/logo-adp-v2.png"
 
     # These "images" are used for the structured data templates. This will show up, when
     # services like Twitter or Slack want to generate a preview of a link to your site.
@@ -80,8 +80,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "facebook"
-        value = "https://www.facebook.com/groups/atelierdesponts"
-        url = "https://www.facebook.com/groups/atelierdesponts"
+        value = "Nous suivre sur Facebook"
+        url = "https://www.facebook.com/profile.php?id=61575537854362"
         icon = "fa fa-facebook"
 
     [[params.contacts]]
