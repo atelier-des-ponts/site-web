@@ -8,8 +8,6 @@ weight: 1
 
 L’Atelier Des Ponts, c’est la mise à disposition d’espaces et d'outils, et un cadre d’entraide et de conseils pour mener à bien vos projets de réparation ou de création.
 
-[Adhésion](https://atelier-des-ponts.assoconnect.com/collect/description/444452-z-adhesion-2024-2025)
-
 
 <a href="/images/perceuse-colonne-atelier-des-ponts.webp" data-lightbox="galerie">
   <img src="/images/perceuse-colonne-atelier-des-ponts.webp" alt="Perceuse à colonne dans l'atelier de bricolage partagé à Villeurbanne" style="width: 30%;">

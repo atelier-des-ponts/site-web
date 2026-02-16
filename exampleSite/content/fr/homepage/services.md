@@ -10,4 +10,3 @@ Les horaires d'ouverture de l'atelier partagé peuvent varier car elles dépende
 
 {{< calendar >}}
 
-Vous pouvez d'ailleurs vous aussi tenir des permanences pour que ce lieu ressource profite au plus grand nombre !
