@@ -10,7 +10,7 @@ header_logo: "images/logo-adp-petit.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Atelier des Ponts"
-header_subheadline: "Atelier de bricolage participatif à Villeurbanne</br>24 rue de Venise"
+header_subheadline: "Atelier de bricolage partagé à Villeurbanne<br>réservé aux non-professionnels"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
