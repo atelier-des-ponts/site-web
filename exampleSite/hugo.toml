@@ -41,7 +41,7 @@ enableEmoji = true
     title = "Attelier des ponts"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Atelier participatif de bricolage à Villeurbanne"
+    description = "Atelier partagé de bricolage à Villeurbanne"
 
     # Show a menu of languages available
     language_menu = true
@@ -76,7 +76,7 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "bricolage, bois, budget participatif, villeurbanne"
+        keywords = "bricolage, bois, budget participatif, villeurbanne, atelier, associatif, partagé"
 
     [[params.contacts]]
         label = "facebook"
